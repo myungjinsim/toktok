@@ -1,3 +1,3 @@
 # toktok
-Simple messenger style memo app
-Hello
+Hello this is Simple messenger style memo app
+
